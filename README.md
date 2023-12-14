@@ -77,3 +77,15 @@ spring.datasource.password=${env.DB_PASSWORD}
 ```
 
 Adjust the properties based on your specific database and project requirements.
+
+
+
+### Project Screenshots
+
+![AddEmployeePage](https://github.com/yusufbgdd557/Employee-Management-System-Backend/assets/45573977/81aa6263-b5c8-4717-808a-54ecad1d4f60)
+
+![Add-Employee](https://github.com/yusufbgdd557/Employee-Management-System-Backend/assets/45573977/fc8c2084-e3ee-4f40-a879-686d8c54bd4c)
+
+![MainPage](https://github.com/yusufbgdd557/Employee-Management-System-Backend/assets/45573977/6030b205-592f-466e-ba97-a1a3d38cb62b)
+
+![DeleteProcess](https://github.com/yusufbgdd557/Employee-Management-System-Backend/assets/45573977/f7e92dcb-be1b-44ac-be65-95f92ea710e0)
